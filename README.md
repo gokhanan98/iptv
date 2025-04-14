@@ -50,8 +50,3 @@ Kurulum tamamlandıktan sonra canlı TV kanalları, film ve dizi arşivleri, spo
 
 Detaylı IPTV rehberi ve paket seçenekleri için:  
 👉 [https://iptvistanbul.onepage.me](https://iptvistanbul.onepage.me)
-
----
-
-#### SEO Anahtar Kelimeler:
-`iptv nasıl kullan
